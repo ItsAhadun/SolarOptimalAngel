@@ -37,8 +37,8 @@ pip install matplotlib
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/itsAhadun/solar-tilt-optimization.git
-   cd solar-tilt-optimization
+   git clone https://github.com/itsAhadun/SolarOptimalAngel.git
+   cd SolarOptimalAngel
    ```
 2. Run the `compute.py` script:
    ```bash
